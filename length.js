@@ -21,3 +21,4 @@ function longestWord(sentence) {
 
 function sortByLength(a, b) {
   return b.length - a.length;
+}
